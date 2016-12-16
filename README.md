@@ -222,4 +222,11 @@ validForm(oFormBox, {
 ```
 
 **提示的优先级**
+
 自定义的提示 > 默认规则的配置 > placeholder
+
+
+## CodePen示例
+
+<iframe height='189' scrolling='no' title='KNrmWQ' src='//codepen.io/togglelt/embed/KNrmWQ/?height=189&theme-id=dark&default-tab=html,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='http://codepen.io/togglelt/pen/KNrmWQ/'>KNrmWQ</a> by LT (<a href='http://codepen.io/togglelt'>@togglelt</a>) on <a href='http://codepen.io'>CodePen</a>.
+</iframe>
