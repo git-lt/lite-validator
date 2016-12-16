@@ -1,0 +1,35 @@
+{
+  "name": "lite-validator",
+  "version": "0.0.1",
+  "author": "Aitter <hz_liutao@qq.com>",
+  "description": "Simple, smart and pleasant verification solution.",
+  "main": "./src/lite-validator.js",
+  "devDependencies": {
+    "babel-core": "^6.20.0",
+    "babel-loader": "^6.2.10",
+    "babel-polyfill": "^6.20.0",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-stage-2": "^6.18.0",
+    "babel-polyfill": "^6.20.0",
+    "webpack": "^1.14.0"
+  },
+  "scripts": {
+    "build": "webpack"
+  },
+  "keywords": [
+    "react-valid",
+    "vue-valid",
+    "validation",
+    "form",
+    "validator",
+    "validate",
+    "lite-validator"
+  ],
+  "homepage": "https://github.com/git-lt/lite-validator",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/git-lt/lite-validator.git"
+  },
+  "bugs": "https://github.com/git-lt/lite-validator/issues",
+  "license": "ISC"
+}
