@@ -1,6 +1,6 @@
 {
   "name": "lite-validator",
-  "version": "0.0.1",
+  "version": "0.1.2",
   "author": "Aitter <hz_liutao@qq.com>",
   "description": "Simple, smart and pleasant verification solution.",
   "main": "./src/lite-validator.js",
